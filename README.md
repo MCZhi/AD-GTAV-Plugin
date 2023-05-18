@@ -7,5 +7,5 @@ Logitech G29 driving steering wheel & pedals required.
 2. Download Script Hook V and install it (make sure it is compatiable with the game version)
 3. Put this plugin into GTAV folder
 4. Enter the game
-5. Register steering wheel using the plugin setting by pressing "[{"
+5. Register steering wheel using the plugin setting by pressing "[{" on keyboard
 6. Enjoy
