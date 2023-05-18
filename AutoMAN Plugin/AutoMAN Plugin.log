@@ -1,0 +1,137 @@
+[10:56:17.288] [ INFO  ] AutoMAN @NTU Research Platform v0.2.0 (built Dec 11 2019 17:14:47)
+[10:56:17.289] [ INFO  ] GTAV Game version 82
+[10:56:17.289] [ INFO  ] Running executable: D:\SteamLibrary\steamapps\common\Grand Theft Auto V\GTA5.exe
+[10:56:17.290] [ INFO  ] File Version: 1.0.2845.0
+[10:56:17.290] [WARNING] Version mismatch!
+[10:56:17.290] [WARNING]     Detected: VER_1_0_1737_0_STEAM
+[10:56:17.290] [WARNING]     Reported: 82
+[10:56:17.290] [WARNING] Using detected version (VER_1_0_1737_0_STEAM)
+[10:56:17.293] [ INFO  ] Script registered
+[10:57:09.672] [ INFO  ] Script started
+[10:57:09.689] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[10:57:09.689] [ INFO  ] Settings read
+[10:57:09.689] [ INFO  ] Configs loaded: 0
+[10:57:09.846] [WARNING] Handbrake Offset: 0x0
+[10:57:09.989] [ ERROR ] [Patch] Test: [Gears: Shift Up] not found
+[10:57:10.018] [ ERROR ] [Patch] Test: [Gears: Shift Down] not found
+[10:57:10.045] [ ERROR ] [Patch] Test: [Gears: Clutch Low RPM] not found
+[10:57:10.107] [ ERROR ] [Patch] Test: [Steer: Steering input] not found
+[10:57:10.107] [ ERROR ] Patchability test failed!
+[10:57:10.107] [ INFO  ] Setting up TrainerV compatibility
+[10:57:10.107] [ INFO  ] TrainerV.asi not found
+[10:57:10.107] [ INFO  ] [Wheel] Initializing input devices
+[10:57:10.107] [ INFO  ] [Wheel] Setting up DirectInput interface
+[10:57:10.127] [ INFO  ] [Wheel] Found 1 device(s)
+[10:57:10.127] [ INFO  ] [Wheel]     Name:   Logitech G HUB G29 Driving Force Racing Wheel USB
+[10:57:10.127] [ INFO  ] [Wheel]     GUID:   {40544080-F44B-11EB-800D-444553540000}
+[10:57:10.127] [ INFO  ] [Wheel] Devices initialized
+[10:57:10.127] [ INFO  ] [Wheel] Initializing force feedback
+[10:57:10.128] [WARNING] [Wheel] FFB device not found
+[10:57:10.128] [ INFO  ] [Wheel] Not set up in .ini: 
+[10:57:10.128] [ INFO  ] [Wheel] Device: Logitech G HUB G29 Driving Force Racing Wheel USB
+[10:57:10.128] [ INFO  ] [Wheel] GUID:   {40544080-F44B-11EB-800D-444553540000}
+[10:57:10.128] [ INFO  ] [Wheel] Steering wheel initialization finished
+[10:57:10.129] [ INFO  ] START: Initialization finished
+[10:57:10.173] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:57:10.173] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:57:10.218] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:57:10.218] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:57:10.265] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:57:10.265] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:57:10.319] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:57:10.319] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:57:10.363] [ ERROR ] [Patch] [Steer: Steering input] not found
+[10:57:10.364] [ ERROR ] [Patch] [Steer: Steering input] Patch failed
+[10:57:10.364] [ ERROR ] [Patch] [Steer: Steering input] Patch attempt limit exceeded
+[10:57:10.364] [ ERROR ] [Patch] [Steer: Steering input] Patching disabled
+[10:57:19.691] [ INFO  ] Checking for updates
+[10:57:20.012] [WARNING] Update available: [v5.6.1]
+[10:57:20.012] [WARNING] Published at [2023-01-29T19:23:58Z]
+[10:57:20.012] [WARNING] Update description:
+## 5.6.1
+
+* Fix multiple wheel steering multipliers, affects vehicles that use rear-wheel steering with reduced angle:
+  * [james8646](https://www.gta5-mods.com/users/james8646)'s [2022 Mercedes-Benz S-class S500 W223](https://www.gta5-mods.com/vehicles/mercedes-benz-2022-s-class-s500-w223-amg-line-add-on)
+  * Chernobog
+[10:57:33.686] [ ERROR ] [Patch] [Gears: Clutch Low RPM] not found
+[10:57:33.687] [ ERROR ] [Patch] [Gears: Clutch Low RPM] Patch failed
+[10:57:33.721] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:57:33.721] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:57:33.749] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:57:33.749] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:57:33.749] [ ERROR ] [Patch] [Gears] Patching failed
+[10:57:33.794] [ ERROR ] [Patch] [Gears: Clutch Low RPM] not found
+[10:57:33.794] [ ERROR ] [Patch] [Gears: Clutch Low RPM] Patch failed
+[10:57:33.822] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:57:33.823] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:57:33.852] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:57:33.852] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:57:33.852] [ ERROR ] [Patch] [Gears] Patching failed
+[10:57:33.890] [ ERROR ] [Patch] [Gears: Clutch Low RPM] not found
+[10:57:33.890] [ ERROR ] [Patch] [Gears: Clutch Low RPM] Patch failed
+[10:57:33.917] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:57:33.917] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:57:33.945] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:57:33.945] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:57:33.945] [ ERROR ] [Patch] [Gears] Patching failed
+[10:57:33.981] [ ERROR ] [Patch] [Gears: Clutch Low RPM] not found
+[10:57:33.981] [ ERROR ] [Patch] [Gears: Clutch Low RPM] Patch failed
+[10:57:34.008] [ ERROR ] [Patch] [Gears: Shift Down] not found
+[10:57:34.008] [ ERROR ] [Patch] [Gears: Shift Down] Patch failed
+[10:57:34.036] [ ERROR ] [Patch] [Gears: Shift Up] not found
+[10:57:34.036] [ ERROR ] [Patch] [Gears: Shift Up] Patch failed
+[10:58:15.926] [ INFO  ] Configs loaded: 0
+[10:58:28.810] [ INFO  ] Configs loaded: 0
+[10:59:16.612] [ INFO  ] Configs loaded: 0
+[11:01:51.716] [ INFO  ] Configs loaded: 0
+[11:05:16.824] [ INFO  ] Configs loaded: 0
+[11:08:52.488] [ INFO  ] Configs loaded: 0
+[11:33:36.729] [ INFO  ] Configs loaded: 0
+[11:38:22.002] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[11:38:22.010] [ INFO  ] [Wheel] Initializing input devices
+[11:38:22.010] [ INFO  ] [Wheel] Setting up DirectInput interface
+[11:38:22.031] [ INFO  ] [Wheel] Found 1 device(s)
+[11:38:22.031] [ INFO  ] [Wheel]     Name:   Logitech G HUB G29 Driving Force Racing Wheel USB
+[11:38:22.031] [ INFO  ] [Wheel]     GUID:   {40544080-F44B-11EB-800D-444553540000}
+[11:38:22.031] [ INFO  ] [Wheel] Devices initialized
+[11:38:22.031] [ INFO  ] [Wheel] Initializing force feedback
+[11:38:22.031] [ INFO  ] [Wheel] Initializing FFB effects (axis: lX)
+[11:38:22.046] [ INFO  ] [Wheel] Initializing force feedback success
+[11:38:22.046] [ INFO  ] [Wheel] Steering wheel initialization finished
+[11:38:28.029] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[11:38:28.037] [ INFO  ] [Wheel] Initializing input devices
+[11:38:28.037] [ INFO  ] [Wheel] Setting up DirectInput interface
+[11:38:28.058] [ INFO  ] [Wheel] Found 1 device(s)
+[11:38:28.058] [ INFO  ] [Wheel]     Name:   Logitech G HUB G29 Driving Force Racing Wheel USB
+[11:38:28.058] [ INFO  ] [Wheel]     GUID:   {40544080-F44B-11EB-800D-444553540000}
+[11:38:28.058] [ INFO  ] [Wheel] Devices initialized
+[11:38:28.058] [ INFO  ] [Wheel] Initializing force feedback
+[11:38:28.058] [ INFO  ] [Wheel] Initializing FFB effects (axis: lX)
+[11:38:28.073] [ INFO  ] [Wheel] Initializing force feedback success
+[11:38:28.073] [ INFO  ] [Wheel] Steering wheel initialization finished
+[11:38:35.429] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[11:38:35.437] [ INFO  ] [Wheel] Initializing input devices
+[11:38:35.437] [ INFO  ] [Wheel] Setting up DirectInput interface
+[11:38:35.457] [ INFO  ] [Wheel] Found 1 device(s)
+[11:38:35.457] [ INFO  ] [Wheel]     Name:   Logitech G HUB G29 Driving Force Racing Wheel USB
+[11:38:35.457] [ INFO  ] [Wheel]     GUID:   {40544080-F44B-11EB-800D-444553540000}
+[11:38:35.457] [ INFO  ] [Wheel] Devices initialized
+[11:38:35.458] [ INFO  ] [Wheel] Initializing force feedback
+[11:38:35.458] [ INFO  ] [Wheel] Initializing FFB effects (axis: lX)
+[11:38:35.472] [ INFO  ] [Wheel] Initializing force feedback success
+[11:38:35.472] [ INFO  ] [Wheel] Steering wheel initialization finished
+[11:39:57.032] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[11:40:03.828] [ INFO  ] Configs loaded: 0
+[11:41:02.628] [ INFO  ] [Settings] Timers: Stopped after 0 timers
+[11:41:02.638] [ INFO  ] [Wheel] Initializing input devices
+[11:41:02.638] [ INFO  ] [Wheel] Setting up DirectInput interface
+[11:41:02.659] [ INFO  ] [Wheel] Found 1 device(s)
+[11:41:02.659] [ INFO  ] [Wheel]     Name:   Logitech G HUB G29 Driving Force Racing Wheel USB
+[11:41:02.659] [ INFO  ] [Wheel]     GUID:   {40544080-F44B-11EB-800D-444553540000}
+[11:41:02.659] [ INFO  ] [Wheel] Devices initialized
+[11:41:02.659] [ INFO  ] [Wheel] Initializing force feedback
+[11:41:02.659] [ INFO  ] [Wheel] Initializing FFB effects (axis: lX)
+[11:41:02.674] [ INFO  ] [Wheel] Initializing force feedback success
+[11:41:02.674] [ INFO  ] [Wheel] Steering wheel initialization finished
+[11:43:39.346] [ INFO  ] Configs loaded: 0
+[11:43:39.347] [ INFO  ] Configs loaded: 0
